@@ -1,2 +1,2 @@
-# caffe-c-
+# caffe-c
 c++ to use your caffemodel
